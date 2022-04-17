@@ -9,8 +9,12 @@
  <li></li>
  <li></li>
  <li></li>
+  <li></li>
+
 </ul>
 
+<br>
+<br>
 <br>
 
 <h2> Tecnologias na qual tenho contato ou estudo </h2>
@@ -21,8 +25,11 @@
  <li></li>
 </ul>
  
- ![gguisales GitHub stats](https://github-readme-stats.vercel.app/api?username=gguisales&show_icons=true&theme=gotham)
+<div align="center"> 
  
+ ![gguisales GitHub stats](https://github-readme-stats.vercel.app/api?username=gguisales&show_icons=true&theme=gotham)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguisales&layout=count=true&theme=gotham)](https://github.com/gguisales/github-readme-stats)
+ 
+</div>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
