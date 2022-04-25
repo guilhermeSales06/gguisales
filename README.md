@@ -54,4 +54,4 @@ Estudante do Segundo ano do ensino medio integrado ao tecnico de Desenvolvimento
  
 </div>
 
- ![Snake animation](https://github.com/gguisales/gguisales/blob/output/github-contribution-grid-snake.svg) 
+ 
