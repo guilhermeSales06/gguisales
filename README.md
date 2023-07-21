@@ -3,7 +3,7 @@
 
  
  ```
-Estudante do Segundo ano do ensino medio integrado ao tecnico de Desenvolvimento de Sistemas
+Estudante do terceiro ano do ensino medio integrado ao tecnico de Desenvolvimento de Sistemas
 ```
 
 <div align="center">
