@@ -17,9 +17,7 @@ Estudante do Segundo ano do ensino medio integrado ao tecnico de Desenvolvimento
 <br>
 <ul>
  <li>I'm a student at etec from peruibe</li>
- <li>I'm 16 years</li>
- <li></li>
- 
+ <li>I'm 17 years</li>
 </ul>
 
 <br>
@@ -47,9 +45,7 @@ Estudante do Segundo ano do ensino medio integrado ao tecnico de Desenvolvimento
 </ul>
  
 <div align="center"> 
- 
- ![gguisales GitHub stats](https://github-readme-stats.vercel.app/api?username=gguisales&show_icons=true&theme=gotham)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gguisales&layout=count=true&theme=gotham)](https://github.com/gguisales/github-readme-stats)
+
  
 </div>
 
