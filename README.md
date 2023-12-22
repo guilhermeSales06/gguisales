@@ -15,8 +15,3 @@ Estudante do terceiro ano do ensino medio integrado ao tecnico de Desenvolviment
   </div>
 
 <br>
-<ul>
- <li>I'm a student at etec from peruibe</li>
- <li>I'm 17 years</li>
-</ul>
-
