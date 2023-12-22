@@ -20,33 +20,3 @@ Estudante do terceiro ano do ensino medio integrado ao tecnico de Desenvolviment
  <li>I'm 17 years</li>
 </ul>
 
-<br>
-<br>
-<br>
-
-<h2> Tecnologias na qual estudo e tenho contato </h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" 
-</div>
- <br>
- 
-<ul>
- <li>html</li>
- <li>css</li>
- <li>javascript</li>
- <li>php</li>
- <li>mysql</li>
- <li>c#</li>
-</ul>
- 
-<div align="center"> 
-
- 
-</div>
-
- 
